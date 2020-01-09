@@ -31,6 +31,29 @@
 ## Draft topics
 ---
 
+* Coding standards
+  * Lay them down, reference and use them
+* Linting
+* Name all your playbooks/tasks/roles
+* Dont mix YAML & INI
+* Directory structures
+* DRY coding
+* Always reference latest online documentation (things change)
+* Be aware of your Ansible version
+* Attempt to upgrade python to version 3
+* Tags
+* Split big playbooks - use ROLES !
+* Staging code != Production code
+* Plain text credentials !!! Use Vault
+* Modules over command/shell
+* Inline comments to help understanding - helps yourself as well as others
+* Peer review
+* KEEP IT SIMPLE 
+
+
+Idea
+
+Show a badly crafted playbook vs a well-structured one side-by-side
 @title[Overview]
 
 ## Overview
