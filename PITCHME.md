@@ -29,7 +29,9 @@
 @title[Topics]
 
 ## Draft topics
----
+
++++
+@title[draft]
 
 * Coding standards
   * Lay them down, reference and use them
@@ -56,6 +58,7 @@ Idea
 Show a badly crafted playbook vs a well-structured one side-by-side
 @title[Overview]
 
+---
 ## Overview
 
 +++
